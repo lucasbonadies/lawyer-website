@@ -1,39 +1,39 @@
-# Sitio web profesional - Abogada Lorena Vallejos ⚖️
+# Professional Website - Attorney Lorena Vallejos ⚖️
 
-Este proyecto es un sitio web diseñado y desarrollado para la abogada **Lorena Vallejos**, quien trabaja en un estudio jurídico especializado en diversas áreas del derecho.
+This project is a website designed and developed for attorney **Lorena Vallejos**, who works at a law firm specializing in various areas of law.
 
-El sitio fue construido utilizando **WordPress**, implementando el tema Kadence y diversos plugins para ofrecer una experiencia profesional, funcional y optimizada, según las necesidades y preferencias del cliente.
+The site was built using **WordPress**, implementing the Kadence theme and various plugins to offer a professional, functional, and optimized experience, according to the client's needs and preferences.
 
 🌐 **Demo online:** [lucasbonadies.infinityfreeapp.com](https://lucasbonadies.infinityfreeapp.com/)
 
 ---
 
-## 🏛 Servicios destacados
+## 🏛 Featured Services
 
-* Derecho de Familia
-* Derecho Civil
-* Derecho Comercial
-* Derecho Laboral
-* Amparos de Salud
-* Asistencia a Residentes en el Exterior (para resolver trámites legales en Argentina)
-
----
-
-## 🚀 Tecnologías y herramientas utilizadas
-
-* WordPress con tema Kadence
-* Plugins para:
-
-  * Formularios de contacto
-  * Optimización SEO
-  * Seguridad web
-  * Optimización de performance
-* Diseño responsivo adaptado a dispositivos móviles y escritorio
-* Personalización a medida basada en la identidad visual y preferencias del cliente
+* Family Law
+* Civil Law
+* Commercial Law
+* Labor Law
+* Health Protection
+* Assistance for Residents Abroad (to resolve legal procedures in Argentina)
 
 ---
 
-## 📸 Capturas de pantalla
+## 🚀 Technologies and Tools Used
+
+* WordPress with Kadence theme
+* Plugins for:
+
+* Contact forms
+* SEO Optimization
+* Web Security
+* Performance Optimization
+* Responsive design adapted to mobile and desktop devices
+* Custom customization based on the client's visual identity and preferences
+
+---
+
+## 📸 Screenshots
 
 <table>
  <tr>
@@ -64,10 +64,10 @@ El sitio fue construido utilizando **WordPress**, implementando el tema Kadence 
 
 ---
 
-## 📄 Nota legal
+## 📄 Legal
 
-Este sitio web ha sido desarrollado exclusivamente para el estudio jurídico de Lorena Vallejos.
-Todos los contenidos, diseño personalizado y configuraciones están protegidos por derechos de autor.
-Queda prohibida su copia, redistribución o reutilización sin la autorización expresa del desarrollador.
+This website has been developed exclusively for the law firm of Lorena Vallejos.
+All content, custom design, and configuration are protected by copyright.
+Copying, redistribution, or reuse without the express authorization of the developer is prohibited.
 
 © 2025 BeLayout
