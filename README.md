@@ -35,11 +35,32 @@ El sitio fue construido utilizando **WordPress**, implementando el tema Kadence 
 
 ## 📸 Capturas de pantalla
 
-| Vista principal        | Imagen                                  |
-| ---------------------- | --------------------------------------- |
-| Página de inicio       | ![Inicio](screenshots/inicio.png)       |
-| Sección de servicios   | ![Servicios](screenshots/servicios.png) |
-| Formulario de contacto | ![Contacto](screenshots/contacto.png)   |
+<table>
+ <tr>
+  <td>
+   
+   ![Inicio](screenshots/Lorena-Vallejos-home.jpg)
+   
+  </td>
+  <td>
+   
+   ![Home-service](screenshots/Lorena-Vallejos-home-services.jpg)
+   
+  </td>
+ </tr>
+  <tr>
+  <td>
+  
+  ![Service](screenshots/Lorena-Vallejos-services.jpg)
+   
+  </td>
+  <td>
+   
+   ![About](screenshots/Lorena-Vallejos-about-mi.jpg)
+   
+  </td>
+ </tr>
+</table>
 
 ---
 
